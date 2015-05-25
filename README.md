@@ -11,7 +11,7 @@ El usuario estará en capacidad de modificar el mapa de la red ferroviaria con l
 
 --añadir y eliminar estaciones.
 --añadir y eliminar vías férreas. 
---añadir y eliminar trenes. 
+--añadir y eliminar trenes.  
 --Añadir y eliminar jornadas de un tren. 
 --El usuario podrá suspender y reiniciar la simulación en cualquier momento. 
 
