@@ -1,6 +1,6 @@
 # Sistema-Ferroviario
 Proyecto 2,  Técnicas de programación 3.
-
+### Hecho en VisualStudio community 2013 ###
 Para el desarrollo del Plan Ferroviario Nacional es necesario contar con un sistema que permita la simulación de un sistema ferroviario con las siguientes características: 
 
 La interfaz del usuario debe ser tan intuitiva como sea posible. El mapa de la red ferroviaria debe ser presentado en pantalla y todas las operaciones del sistema deben ser relacionadas al mapa. 
